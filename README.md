@@ -1,2 +1,7 @@
-# pads
-Examples of Programming Algorithms and Data Structures
+# Алгоритмы и структуры данных
+Учебный проект с реализациями задач на Python.
+В проекте собраны блокноты Jupyter Notebook.
+
+## 1. Сортировки
+1. Сортировка вставками
+
